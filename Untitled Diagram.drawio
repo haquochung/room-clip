@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="d79-4mMJOALtI4bhnsXt-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="d79-4mMJOALtI4bhnsXt-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="110" width="32.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Li2eop9Qf8itLlXsB0eg-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="60" height="47.400000000000006" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
